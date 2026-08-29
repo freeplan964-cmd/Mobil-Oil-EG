@@ -1,5 +1,5 @@
 <script setup lang="ts">
-import { ArrowRight, Mail, MessageCircle, Send } from 'lucide-vue-next'
+import { ArrowRight, MessageCircle, Send } from 'lucide-vue-next'
 import { ref } from 'vue'
 import { RouterLink } from 'vue-router'
 
