@@ -2,6 +2,8 @@
 
 <!-- Describe what changed and why. -->
 
+<!-- Use a Conventional Commit title, for example: feat: add vehicle matching. -->
+
 ## Verification
 
 - [ ] `npm run lint`
