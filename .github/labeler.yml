@@ -12,8 +12,7 @@
 
 'area: ci':
   - changed-files:
-      - any-glob-to-any-file:
-          ['.github/**/*', 'release-please-config.json', '.release-please-manifest.json']
+      - any-glob-to-any-file: ['.github/**/*']
 
 'area: tests':
   - changed-files:
